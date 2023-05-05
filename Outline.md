@@ -14,3 +14,4 @@ CG: And I'm CainTheGuy.
 PG: Today we will be talking about AI.  
 ---
 Part 1  
+TTS: We will be discussing what AI is in this section.  
