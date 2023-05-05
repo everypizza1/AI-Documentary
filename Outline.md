@@ -6,7 +6,7 @@ CaneTheGuy [CG]
 ---
 Intro  
 *Open with shot of a desert made by AI.*   
-**Text:**  
+*Text:*  
 `AI: A DOCUMENTARY`  
 *Video call effect: (`PG+CG`)*  
 PG: Hello, welcome to this documentery! I'm PizzaTheGreat!  
