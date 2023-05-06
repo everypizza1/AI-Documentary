@@ -36,10 +36,13 @@ PG: Some examples are: `(on-screen)`
 - Inspiration
 - Google/Apple Maps
 - Much more  
----   
+
 PG: AI is also being used in cars.  
 PG: You probably have heard of Tesla, which was recently bought by Elon Musk.  
 PG: In his new, but possibly illegal self driving 2.0, it uses very advanced AI to navigate.  
+PG: AI is also used for `Reccomended` algoritims. We will discuss this after a short break.
+---
+** fake ad here  **
 
 ---
 Part 3: `What is its power?`  
