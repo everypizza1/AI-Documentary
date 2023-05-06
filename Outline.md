@@ -34,10 +34,13 @@ PG: Some examples are: `(on-screen)`
 - Writing
 - Code
 - Inspiration
+- Google/Apple Maps
 - Much more  
 ---   
 PG: AI is also being used in cars.  
-You probably have heard of Teslay, which was recently bought by Elon Musk.
+PG: You probably have heard of Tesla, which was recently bought by Elon Musk.  
+PG: In his new, but possibly illegal self driving 2.0, it uses very advanced AI to navigate.  
+
 ---
 Part 3: `What is its power?`  
 
