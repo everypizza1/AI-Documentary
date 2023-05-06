@@ -79,7 +79,11 @@ PG: AI powers NPC's, or Non-Player Characters. Somtimes they have random movemen
 PG: AI anticheats exist too.  
 PG: AI anticheat systems rely on `Reinforcement Learning.`  
 PG: Reinforcement learning `(RL)` AIs, like the Snake game shown earlier, learn themselves.  
-PG: RL algorithms are trained with a reward-based system, kind of like training a dog.
+PG: RL algorithms are trained with a reward-based system, kind of like training a dog.  
+PG: When it does something good, it gets a **reward.**  
+PG: When it doesn't, it gets a **penalty.**  
+PG: Rewards and penalties apply at the end of every **episode.**  
+PG: The AI tries to get the highest possible **reward.**
 --- 
 Part 4: `Outro`  
 
