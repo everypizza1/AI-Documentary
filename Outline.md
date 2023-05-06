@@ -78,7 +78,8 @@ PG: Some people like to play chess against AI.
 PG: AI powers NPC's, or Non-Player Characters. Somtimes they have random movements, but sometimes they can also be programmed to find players.  
 PG: AI anticheats exist too.  
 PG: AI anticheat systems rely on `Reinforcement Learning.`  
-PG: Reinforcement learning AIs, like the Snake game shown earlier
+PG: Reinforcement learning AIs, like the Snake game shown earlier, learn themselves.  
+
 --- 
 Part 4: `Outro`  
 
