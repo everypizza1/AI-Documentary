@@ -65,15 +65,19 @@ PG: Whenever you click on a link or watch a video, it tells a server somwhere th
 PG: It then analyses the video or webpage and shows you ads related to it.  
 PG: If you press like or stay on the page for a certain ammount of time, that also gets sent to the serever.  
 PG: If you press dislike, it gets sent to the server that you disliked the video.  
-PG: Some other stuff sent to the server is:
+PG: Some other stuff sent to the server is:  
 * Your adress
 * Where you where when you pressed like
 * Your IP adress
 * Your name
 * Much more  
   
-PG: The AI uses that data to show you more things that you might like.
-PG: 
+PG: The AI uses that data to show you more things that you might like.  
+PG: AI is also used in gaming.  
+PG: Some people like to play chess against AI.  
+PG: AI powers NPC's, or Non-Player Characters. Somtimes they have random movements, but sometimes they can also be programmed to find players.  
+PG: AI anticheats exist too.
+PG: AI anticheat systems 
 --- 
 Part 4: `Outro`  
 
