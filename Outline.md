@@ -14,7 +14,7 @@ PG: Today I will be talking about AI.
 Part 1: `What is AI?`
 *Text:*
 `What is AI?`
-TTS: We will be discussing what AI is in this section.  
+PG: I will be discussing what AI is in this section.  
 PG: AI, also known as Artificail Intelligence, has recently become extremly popular.  
 PG: You almost definitly have heard of it.  
 PG: Recently, the world has recovered from a `AI Winter.`  
@@ -40,9 +40,7 @@ PG: Some examples are: `(on-screen)`
 PG: AI is also being used in cars.  
 PG: You probably have heard of Tesla, which was recently bought by Elon Musk.  
 PG: In his new, but possibly illegal self driving 2.0, it uses very advanced AI to navigate.  
-PG: AI is also used for `Reccomended` algoritims. We will discuss this after a short break.  
----
-** fake ad here  **  
+PG: AI is also used for `Reccomended` algoritims. We will discuss this in the next block.  
 
 ---
 Part 3: `What is its power?`  
@@ -61,6 +59,20 @@ PG: AI is also pretty good at writing, sadly. At this point, you can't tell if a
 PG: AI Text To Speech is also really good, as it has existied since 1961.  
 PG: The main problem with AI is the price.  
 PG: Most of the time, you need a good CPU, GPU, lots of RAM and a lot of storage space.  
+PG: AI is also used in reccomended algorihims.  
+PG: Ad personolisation depends on AI.  
+PG: Whenever you click on a link or watch a video, it tells a server somwhere that you clicked on a link or watched a video.  
+PG: It then analyses the video or webpage and shows you ads related to it.  
+PG: If you press like or stay on the page for a certain ammount of time, that also gets sent to the serever.  
+PG: If you press dislike, it gets sent to the server that you disliked the video.  
+PG: Some other stuff sent to the server is:
+* Your adress
+* Where you where when you pressed like
+* Your IP adress
+* Your name
+* Much more  
+  
+PG: The AI uses that data to show you more things that you might like.
 PG: 
 --- 
 Part 4: `Outro`  
