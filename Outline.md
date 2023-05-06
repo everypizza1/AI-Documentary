@@ -36,7 +36,8 @@ PG: Some examples are: `(on-screen)`
 - Inspiration
 - Much more  
 ---   
-PG:
+PG: AI is also being used in cars.  
+You probably have heard of Teslay, which was recently bought by Elon Musk.
 ---
 Part 3: `What is its power?`  
 
