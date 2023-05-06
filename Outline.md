@@ -56,6 +56,12 @@ PG: As you can see, theese images are poorly generated. Some have weird faces, h
 `insert images+prompt+engine here (moderate)`  
 PG: Theese look better, but not the best. If you have a more detailed prompt, it looks even better.  
 `insert images+prompt+engine here (best)`  
+PG: As you can see, AI art can get creepily realistic.  
+PG: AI is also pretty good at writing, sadly. At this point, you can't tell if an essay is real or stolen from an AI.  
+PG: AI Text To Speech is also really good, as it has existied since 1961.  
+PG: The main problem with AI is the price.  
+PG: Most of the time, you need a good CPU, GPU, lots of RAM and a lot of storage space.  
+PG: 
 --- 
 Part 4: `Outro`  
 
