@@ -4,14 +4,14 @@ Cast
 PizzaTheGreat [PG] 
 AI
 ---
-#### Part 0: `Intro` #### 
+Part 0: `Intro`
 *Open with shot of a desert made by AI.*   
 *Text:*  
 `AI: A DOCUMENTARY`  
 PG: Hello, welcome to this documentery! I'm PizzaTheGreat.  
 PG: Today I will be talking about AI.  
 ---
-#### Part 1: `What is AI?` ####  
+Part 1: `What is AI?`
 *Text:*
 `What is AI?`
 TTS: We will be discussing what AI is in this section.  
@@ -25,13 +25,23 @@ PG: ChatGPT is a Generative Pre-trained Transformer.
 PG: This means that it can turn words into more words.  
 PG: On to the next part!  
 ---  
-#### Part 2: `Where is it used?` ####  
-
+Part 2: `Where is it used?`
+PG: Nowadays, AI is used almost everywhere.  
+PG: Some examples are: `(on-screen)`
+- Home assistants
+    - Google Assistant, Alexa, Siri, etc. 
+- Smart devices
+- Writing
+- Code
+- Inspiration
+- Much more  
+---   
+PG:
 ---
-#### Part 3: `What is its power?` ####  
+Part 3: `What is its power?`  
 
 --- 
-#### Part 4: `Outro` ####  
+Part 4: `Outro`  
 
 ---
-### Part 5: `Credits` ####  
+Part 5: `Credits`
