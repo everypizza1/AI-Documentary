@@ -76,14 +76,19 @@ PG: The AI uses that data to show you more things that you might like.
 PG: AI is also used in gaming.  
 PG: Some people like to play chess against AI.  
 PG: AI powers NPC's, or Non-Player Characters. Somtimes they have random movements, but sometimes they can also be programmed to find players.  
-PG: AI anticheats exist too.  
-PG: AI anticheat systems rely on `Reinforcement Learning.`  
-PG: Reinforcement learning `(RL)` AIs, like the Snake game shown earlier, learn themselves.  
+PG: There are many types of AI, most of which take too long to cover for me to fit them in this video.  
+PG: One that I can fit in is Reinforcement Learning `(RL)` AI.  
+PG: One example is the Snake game shown earlier that learns by itself.  
 PG: RL algorithms are trained with a reward-based system, kind of like training a dog.  
 PG: When it does something good, it gets a **reward.**  
 PG: When it doesn't, it gets a **penalty.**  
 PG: Rewards and penalties apply at the end of every **episode.**  
-PG: The AI tries to get the highest possible **reward.**
+PG: The AI tries to get the highest possible **reward.**  
+PG: Another use is spam classification.  
+`insert 'spam warning' images here`  
+PG: Spam protection saves many computers from malware.  
+PG: Antivirus software is also powered by AI.  
+PG:
 --- 
 Part 4: `Outro`  
 
