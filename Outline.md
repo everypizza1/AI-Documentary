@@ -88,7 +88,11 @@ PG: Another use is spam classification.
 `insert 'spam warning' images here`  
 PG: Spam protection saves many computers from malware.  
 PG: Antivirus software is also powered by AI.  
-PG:
+PG: Antivirus works by scanning your files and comparing them to a database of malware.  
+PG: If the file is simalar, it warns you and prevents it from infecting your computer.  
+PG: Search engines also use AI.  
+PG: Search engines compare your search term to a database.  
+PG: The final use of AI I will cover is email classification.  
 --- 
 Part 4: `Outro`  
 
