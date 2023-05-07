@@ -1,8 +1,8 @@
 # Outline  
 ---
 Cast  
-PizzaTheGreat [PG] 
-AI
+PizzaTheGreat [PG]  
+AI  
 ---
 Part 0: `Intro`  
 *Open with shot of a desert made by AI.*  
@@ -103,6 +103,6 @@ Part 4: `Outro`
 PG: Thanks for watching!  
 ---
 Part 5: `Credits`  
-*insert credits here*
-*insert scrolling credits here*
-*insert credit scene of AI being dumb*
+*insert credits here*  
+*insert scrolling credits here*  
+*insert credit scene of AI being dumb*  
