@@ -4,16 +4,16 @@ Cast
 PizzaTheGreat [PG] 
 AI
 ---
-Part 0: `Intro`
-*Open with shot of a desert made by AI.*   
+Part 0: `Intro`  
+*Open with shot of a desert made by AI.*  
 *Text:*  
 `AI: A DOCUMENTARY`  
 PG: Hello, welcome to this documentery! I'm PizzaTheGreat.  
 PG: Today I will be talking about AI.  
 ---
-Part 1: `What is AI?`
-*Text:*
-`What is AI?`
+Part 1: `What is AI?`  
+*Text:*  
+`What is AI?`  
 PG: I will be discussing what AI is in this section.  
 PG: AI, also known as Artificail Intelligence, has recently become extremly popular.  
 PG: You almost definitly have heard of it.  
@@ -92,9 +92,17 @@ PG: Antivirus works by scanning your files and comparing them to a database of m
 PG: If the file is simalar, it warns you and prevents it from infecting your computer.  
 PG: Search engines also use AI.  
 PG: Search engines compare your search term to a database.  
-PG: The final use of AI I will cover is email classification.  
+PG: The final use of AI I will cover is message classification.  
+PG: On Gmail, there are tabs for Promotions, Primary, Updates and Socail.  
+PG: There is a database of emails catagorised with each catogory.  
+PG: It compares your email to the datbase and sorts them.  
+PG: Google Messages has a simalar feature, but with Buisness and Personal catogories.  
 --- 
 Part 4: `Outro`  
-
+*Increase background music volume.*  
+PG: Thanks for watching!  
 ---
-Part 5: `Credits`
+Part 5: `Credits`  
+*insert credits here*
+*insert scrolling credits here*
+*insert credit scene of AI being dumb*
