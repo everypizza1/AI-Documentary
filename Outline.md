@@ -5,7 +5,6 @@ PizzaTheGreat [PG]
 AI  
 ---
 Part 0: `Intro`  
-*Open with shot of a desert made by AI.*  
 *Text:*  
 `AI: A DOCUMENTARY`  
 PG: Hello, welcome to this documentery! I'm PizzaTheGreat.  
