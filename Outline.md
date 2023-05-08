@@ -1,17 +1,19 @@
-# Outline + Script
----
-Cast  
-PizzaTheGreat [PG]  
+# Outline + Script  
+
+### Cast  
+
+PizzaTheGreat (PG)  
 AI  
 ---
-Part 0: `Intro`  
-*Text:*  
+### Part 0: `Intro`  
+
+Text:  
 `AI: A DOCUMENTARY`  
 PG: Hello, welcome to this documentery! I'm PizzaTheGreat.  
 PG: Today I will be talking about AI.  
 ---
-Part 1: `What is AI?`  
-*Text:*  
+### Part 1: `What is AI?`  
+Text:  
 `What is AI?`  
 PG: I will be discussing what AI is in this section.  
 PG: AI, also known as Artificail Intelligence, has recently become extremly popular.  
@@ -24,7 +26,8 @@ PG: ChatGPT is a Generative Pre-trained Transformer.
 PG: This means that it can turn words into more words.  
 PG: On to the next part!  
 ---  
-Part 2: `Where is it used?`
+### Part 2: `Where is it used?`
+
 PG: Nowadays, AI is used almost everywhere.  
 PG: Some examples are: `(on-screen)`
 - Home assistants
@@ -42,7 +45,8 @@ PG: In his new, but possibly illegal self driving 2.0, it uses very advanced AI 
 PG: AI is also used for `Reccomended` algoritims. We will discuss this in the next block.  
 
 ---
-Part 3: `What is its power?`  
+### Part 3: `What is its power?`  
+
 PG: AI can get very powerful.  
 PG: Theese short video clips will demonstrate that.  
 `insert AI clips here (snake)`  
@@ -98,11 +102,13 @@ PG: There is a database of emails catagorised with each catogory.
 PG: It compares your email to the datbase and sorts them.  
 PG: Google Messages has a simalar feature, but with Buisness and Personal catogories.  
 --- 
-Part 4: `Outro`  
+### Part 4: `Outro`  
+
 *Increase background music volume.*  
 PG: Thanks for watching!  
 ---
-Part 5: `Credits`  
+### Part 5: `Credits`  
+
 *insert credits here*  
 *insert scrolling credits here*  
 *insert credit scene of AI being dumb*  
