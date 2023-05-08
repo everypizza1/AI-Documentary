@@ -1,4 +1,4 @@
-# Outline + Script  
+# Outline  
 
 - Part 0: `Intro`  
 
